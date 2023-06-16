@@ -53,7 +53,8 @@ with open("text.txt",'w')as fp:
   ```
  ### OUTPUT:
 
- ![5b](https://github.com/yogeshrao05/Word-count/assets/122008288/7848842e-7772-43a3-9a1a-02c23ca9522c)
+ ![image](https://github.com/yogeshrao05/Word-count/assets/122008288/570855d0-4005-4900-bcc0-68719a2a7b4b)
+
 
 ## RESULT:
 Thus the program is written to find the word count from a text.
